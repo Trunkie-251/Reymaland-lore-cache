@@ -1,0 +1,4 @@
+# Allayi Culture
+
+### Ritual scarification:
+
