@@ -1,4 +1,4 @@
-# Zycoiblisten
+# Zygolisten
 
 * ### Trantor:
 
