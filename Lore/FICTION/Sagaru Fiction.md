@@ -4,7 +4,9 @@ When man first colonized the stars around himself, he chose to spread the grain 
 
 The Sagaru are an interesting case; While all groundsiders can be seen as rather 'primitive' and undeveloped, none of them are quite literally 'animals', like the Sagaru. A rather 'interesting' genotype that was meticulously engineered for colonizing planetary environments.
 
-Crude, brutish, and tall, these earthbound peoples are. Large muscles and savagely dense bones make up their musculoskeletal systems, almost like a parody of grounside bodies. The eyes can see near-perfectly in the dark, up to matching some of our best nightvision nano. Digestive system and other organs are likewise, extremely robust.
+Crude, brutish, and tall, these earthbound peoples are. Large muscles and savagely dense bones make up their musculoskeletal systems, almost like a parody of grounside bodies. A thick coat of fur, and a curved, round... Yet angular and sharp muzzle serves as the face.
+
+The eyes can see near-perfectly in the dark, up to matching some of our best nightvision nano. Digestive system and other organs are likewise, extremely robust.
 
 Afterall, they can digest raw meat— Even commit acts of cannabalism with no ill effect. 
 
