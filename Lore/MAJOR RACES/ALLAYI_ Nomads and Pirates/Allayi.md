@@ -29,3 +29,7 @@ Allayi Philosophy on augmentations are very different from the imperial norm. In
 * Allayi infantry exclusively use powered armour.
 
 * Allayi are adept at traversing the industrial cyber-nightmare that are their ships, giving them unmatched prowess in navigating the vast bellies of starships, to planetside urban combat zones within imperial hivecities. This ability is only matched by *ratlings*, another human subspecies typically seen in underhive zones.
+
+### Notes:
+
+* Allayi spacers in gameplay should be extremely *weak*. A good punch to the torso should shatter bones, falls and slips should always lead to fractures. This forces them to either fight almost always at *range*, or as power armour and mecha pilots.
