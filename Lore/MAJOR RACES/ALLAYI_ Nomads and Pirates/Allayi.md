@@ -4,7 +4,7 @@
 
 The Allayi are the children of a dead world, void-borne transhuman nomads who have wandered the stars seemingly for centuries. From what the Allayi say themselves, they seem to originate from the *Unthinking Depths*, outside of imperial space. Their dead homeworld was once described as frigid, decorated with vast fjords and tundras, deep dark forests, and cold oceans. Before the Cataclysm, they were split into dozens of nations all fighting for dominance of their homeworld, their mother, *Auriga.*
 
-Nowadays the Allayi travel as nomads in one of their many *Clan Fleets*, vast armadas consisting of hundreds of ships; ranging miniscule suborbital shuttles, to vast arkships and factory vessels, and everything in between. Fleets themselves are vas
+Nowadays the Allayi travel as nomads in one of their many *Clan Fleets*, vast armadas consisting of hundreds of ships; ranging miniscule suborbital shuttles, to vast arkships and factory vessels, and everything in between. Fleets themselves are vast
 
 Typically, Allayi ships are 'jacks of all trades', capable of filling any role but having a few specialties they focus on. Just like their ships, Allayi crews are the exact same way-- Generally at least *capable* of filling most tasks, tightly-knit together into...
 
