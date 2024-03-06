@@ -30,9 +30,11 @@ A noble who rules over a small sector of space and surface-territory, commanding
 
 A Warmistress is expected to fight for their in-system overlords and donate troops, resources, and infrastructure for the greater harmony of the house's warmachine at any given time.
 
+A Warmistress is *exclusively* lizard, save for those from House ???.
+
 ### Tactician
 
-A higher-ranking lizard officer who strategically plans, and commands military forces. Think two-parts intelligence officer, one-part commander.
+A higher-ranking lizard(sometimes synthetic, and rarely human) officer who strategically plans, and commands military forces. Think two-parts intelligence officer, one-part commander.
 
 These tacticians are responsible for planning campaigns and logistics, serving a critical role in a house's warmachine.
 
