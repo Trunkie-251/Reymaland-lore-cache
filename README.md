@@ -6,4 +6,4 @@ An organized set of text files for reymaland lore. This includes spoilers player
 
 ### The Reign of Steel
 
-Welcome to 7XXX, a perion
+Welcome to the far future, in the year of XXXX

@@ -43,3 +43,5 @@ These tacticians are responsible for planning campaigns and logistics, serving a
 A CORE is a synthetic intelligence core that is installed in many high-importance installations. It is essentially is an overlord over the many machines, especially those that house technicians may not have the knowledge to run or use.
 
 It oversees the synthetics used on the station and lords over them, as with other synth technologies that the station runs on; as the house technicians my have little to no idea the esoteric sciences or components that go into these.
+
+### Medicae-Vir
