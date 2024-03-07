@@ -1,8 +1,14 @@
+# Cuisine:
 
+#### Nutriment Paste:
 
+Various flavours of reconstituted nutrient paste. These tend to be hyperefficient at getting you nutrition, although they can be flavourless.
 
+Nutriment paste can take many forms; Solid gelatin-like bricks, liquid goop, drinkable fluid, etc.
 
+#### Yeastbread:
 
+A quick, cheap, and easy way to get nutrition. Essentially a yeastbread strain will be held in some variety of container, with a tad bit of water added. In a couple of minutes, it will grow into a bread-like yeast growth.
 
 #### Aberrant flesh:
 
