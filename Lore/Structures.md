@@ -25,10 +25,18 @@ The genemelter is an advanced facility which the long chains of DNA are smelted 
 
 ### Mind Stem
 
+Direct access to the Network node is done through here.
+
 ### Network Node
 
-An interconnected node which
+An interconnected network which is the backbone of the station's cyberspace. Necessary to exist if cyberspace is to exist and be interactable.
 
-### Organ Printer
+Cyberneticists connect to this and maintain it, besides messing around with various technologies.
 
 ### Recycling Tanks
+
+Recycle emptied corpses whose bodies bodies have been harvest of all organs an augmentations into biomass and nutriment needed by the genesmith and the nutritionist (perhaps)
+
+### Recycler
+
+Used to recycle materials to be stored within the autoassembler and the fabrication network.

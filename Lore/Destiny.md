@@ -60,7 +60,11 @@ Genesmiths typically work in tandem with their brothers; The Surgeons in Augment
 
 ### Magnate
 
-He is the owner of the autofactory and controls it through his cybernetic augmentations which allow him to remotely connect to it.
+He is the owner of the autofactory and controls it through his cybernetic augmentations which allow him to remotely connect to it. You also have your little flock of workers to rule over.
+
+### Cybertechnician
+
+wuguguguguguuwggogogoo ggoo goo gaa gaa
 
 ### Entertainer
 
