@@ -10,7 +10,13 @@ Humanikatari in its traditional form stopped existing long, *long* before the ev
 
 Disgustingly pale ruin-haunters. They are incredibly inbred, and the only vestiges of non-imperial humanikatari that exist outside of the already rare baseliner population which is in the *thousands*
 
-#### ?? No.1
+### Shitmen
+
+Incredibly short, evil humanoids. Unknown origins, but vaguely related to humanity. They might not even be sentient.
+
+They have robust digestive systems (which allow them to digest nearly all organic matter), but as a side effect they have to practice coprophagy, otherwise they won't be able to eat food.
+
+#### ??? No.1
 
 Bio-engineered post-human template that tends to be modified with cybernetics to better fit the roles they are needed for.
 
