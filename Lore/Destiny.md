@@ -1,4 +1,4 @@
-# Roles:
+# Destinies:
 
 ### Dog Soldiers
 
@@ -60,7 +60,11 @@ Genesmiths typically work in tandem with their brothers; The Surgeons in Augment
 
 ### Magnate
 
-He runs the autoplant.
+He is the owner of the autofactory and controls it through his cybernetic augmentations which allow him to remotely connect to it.
+
+### Entertainer
+
+Lizards are hedonists. Sex role.
 
 ### Face-dancer
 
