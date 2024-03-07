@@ -1,6 +1,8 @@
 
 ### Augmentery
 
+Augmentery facilities are used to augment life-forms and graft components onto
+
 ### Autoassembler
 
 This is the autofactory that the Magnate has control over, and gives him profits. He is cybernetically interconnected with it, meaning he can fabricate *anything* from any distance away. Due to the assembler being an advanced autofabrication plant, it needs no workers, *except* for a large maintenance crew who constantly maintain and repair the thing.
