@@ -7,6 +7,8 @@ This is the autofactory that the Magnate has control over, and gives him profits
 
 There is a vast complex of passages, ducting, and crawlspaces so low, one needs to go prone to crawl through them to repair machinery. Optimally, the autofactory should be off when it is being repaired and maintained, but that is usually not the case.
 
+The Autoassembler is mostly synthetic, but comprises of a few organic components that are critical to it's function, like the Axlotl tank. The organic wetware produced by the genesmith's Axlotl tank are necessary to help repair hese organic parts.
+
 ### Axlotl Tanks
 
 The Axlotl Tanks, otherwise known the "Broodmother", is a bizarre meat-machine hybrid whose uterine lining gestate the organs, wetware, creatures, and posthumans needed to run the arcology. It is not sapient, but has some degree of animalistic awareness, capable of feeling pain when hurt (damaged).

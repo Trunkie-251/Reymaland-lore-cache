@@ -56,7 +56,7 @@ Typically an genesmith is the mistress over both life and death. For she recycle
 
 The lower torso of an genesmith is purely synthetic, with a variety of bizarre augmentations designed to allow them to work with the *Axlotl tanks*, vast masses of female flesh and machinery that incubate artificially-grown life such as Face-dancers, spare organs and bodyparts, etc.
 
-Genesmiths typically work in tandem with their brothers; The Surgeons in Augmenteries, though they can be found in seperate 'reproductive plants'
+Genesmiths typically work in tandem with their brothers; The Surgeons in Augmenteries, though they can be found in seperate 'cloning plants'
 
 ### Magnate
 
@@ -68,8 +68,10 @@ wuguguguguguuwggogogoo ggoo goo gaa gaa
 
 ### Entertainer
 
-Lizards are hedonists. Sex role.
+Lizards are hedonists. Sex role, simple as.
 
 ### Face-dancer
 
-A face dancer is a non-sentient creature created for the means of infiltration and assasination
+A face dancer is a non-sentient creature created for the means of infiltration and assasination. Not self-aware, but damn-good at mimicking human behaviors to a tee.
+
+However, a good genesmith can literally *sniff* them out, due to being able to identify the pheromones used by fance-dancers to transformer.
