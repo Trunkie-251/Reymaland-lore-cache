@@ -35,7 +35,7 @@ Many veterans have the image of their comrades being burned alived by intense vo
 ### Grasers
 
 Fires an intense beam of gamma-rays which vaporizes flesh into plasma instantly, and melts metal into slag. An unarmored target getting hit by a Gamma-ray, or a graser gun is like a mannequin made of c4 being detonated. Very messy.
-z
+
 Due to the intensity of the beam, looking at it without eye protection will cause permanent damage to the corneas of the eyes, and cause cheap cyberoptics to burn out. Standard cybereyes are immune to those effects.
 
 The weapon emits quite a bit of radiation when fired. The target, if they survive will definitely *not* be having children ever again, from the sheer amount of gamma-rays that have sliced through their body. Additionally, if the weapon doesn't kill (somehow), the target will usualy die from the intense radiation poisoning, and the death of their white-blood cells due to acute DNA damage.

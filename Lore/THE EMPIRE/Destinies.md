@@ -68,7 +68,7 @@ wuguguguguguuwggogogoo ggoo goo gaa gaa
 
 ### Entertainer
 
-Lizards are hedonists. Sex role, simple as.
+Lizards are hedonists.
 
 ### Face-dancer
 
