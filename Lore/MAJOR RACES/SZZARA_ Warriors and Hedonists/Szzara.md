@@ -2,6 +2,12 @@
 
 ### Description:
 
+A race of reptillian humanoids originating from earth
+
+Conan and his armies defeated the Szzara long ago in the *Hyborian Age*, wiping the Szzara off from the face of hypoborea, andforcing the Szzara into hiding through the use of bizarre, alien sorcery to hide amongst mankind's civilizations.
+
+Before the Cataclysm, Szzara Matriarchs had their claws sunk into almost the entirety of human civilization, their various 'clans' serving as the 'true' de-facto superpowers of earth.
+
 ### Physiology:
 
 Szzara stand at about 2.1 meters in height. Females have far more muscle mass and a tougher skeletal system compared to males. Szzara are physically powerful, with females are far stronger than the average human. 
