@@ -64,6 +64,8 @@ He is the owner of the autofactory and controls it through his cybernetic augmen
 
 ### Cybertechnician
 
+Interfaces with technology.
+
 wuguguguguguuwggogogoo ggoo goo gaa gaa
 
 ### Entertainer
@@ -74,4 +76,4 @@ Lizards are hedonists.
 
 A face dancer is a non-sentient creature created for the means of infiltration and assasination. Not self-aware, but damn-good at mimicking human behaviors to a tee.
 
-However, a good genesmith can literally *sniff* them out, due to being able to identify the pheromones used by fance-dancers to transformer.
+However, a good genesmith can literally *sniff* them out, due to being able to identify the pheromones used by fance-dancers to transform into other creatures.
