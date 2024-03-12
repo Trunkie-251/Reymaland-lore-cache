@@ -2,9 +2,9 @@
 
 ### Description:
 
-A race of reptillian humanoids originating from earth
+A race of reptillian humanoids originating from earth...
 
-Conan and his armies defeated the Szzara long ago in the *Hyborian Age*, wiping the Szzara off from the face of hypoborea, andforcing the Szzara into hiding through the use of bizarre, alien sorcery to hide amongst mankind's civilizations.
+Conan and his armies defeated the Szzara long ago in the *Hyborian Age*, wiping the Szzara off from the face of hypoborea, andforcing the Szzara into hiding through the use of bizarre alien biotech to hide amongst mankind's civilizations.
 
 Before the Cataclysm, Szzara Matriarchs had their claws sunk into almost the entirety of human civilization, their various 'clans' serving as the 'true' de-facto superpowers of earth. A shadow government of sorts.
 
@@ -16,7 +16,7 @@ Szzara stand at about 2.1 meters in height. Females have far more muscle mass an
 
 Around the thyroid in the neck are a pair of venom glands which connect to several of the Szzara's teeth. They are evolutionary holdovers from when the Szzara were proper packhunters. The venom itself is injected through the teeth, and paralyzes prey once there is enough in the bloodstream.
 
-Szzara have redundant organs. 
+Szzara have redundant organs. They also have longer lifespans at about ~200 years on average.
 
 IDEAS: 
 

@@ -6,4 +6,10 @@ An organized set of text files for reymaland lore. This includes spoilers player
 
 ### The Reign of Steel
 
-Welcome to the far future, in the year of XXXX
+Welcome to the far future, in the year of 3XXX. The solar system is ruled by post-human states after the Earth was burnt to cinders under the occult awakening of the Starspawn millenia ago. 
+
+Humanity has been forced to go post-human to survive, homo sapiens is dead. 
+
+Lizards n' humans sitting in a tree...
+
+Synths??????

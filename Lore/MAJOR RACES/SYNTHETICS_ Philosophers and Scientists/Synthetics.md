@@ -2,6 +2,8 @@
 
 ### Description:
 
+Artificial race created by vast Machine-gods.
+
 ### Physiology:
 
 Synthetics are advanced nanotechnological robots. Powerful machines who are capable of walking through the irradiated heart of a reactor, or sitting naked upon the skin of a voidship. Or walking across the surfaces of inhospitable worlds under alien suns.

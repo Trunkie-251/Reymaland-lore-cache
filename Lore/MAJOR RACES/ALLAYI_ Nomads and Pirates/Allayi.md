@@ -4,7 +4,7 @@
 
 The Allayi are a human subspecies who diverged back during the Cataclysm, as one of the Cryosleeper voidships that had managed to escape the catastrophe on earth, which mankind was taught new ways to shout and kill, becoming things like the old ones; Beyond good and evil.
 
-Nowadays the Allayi travel as nomads in one of their many *Clan Fleets*, vast armadas consisting of hundreds of ships; ranging miniscule suborbital shuttles, to vast arkships and factory vessels, and everything in between. Fleets themselves are vast
+Nowadays the Allayi travel as nomads in one of their many *Clan Fleets*, vast armadas consisting of hundreds of ships; ranging miniscule suborbital shuttles, to vast arkships and factory vessels, and everything in between. Fleets themselves are vast...
 
 Typically, Allayi ships are 'jacks of all trades', capable of filling any role but having a few specialties they focus on. Just like their ships, Allayi crews are the exact same way-- Generally at least *capable* of filling most tasks, tightly-knit together into... The Allayi unknowingly take many cultural traits from the Hyborian age...
 
